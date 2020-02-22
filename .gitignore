@@ -6,3 +6,8 @@
 
 #pycache
 __pycache__/
+
+#apikeys
+apikeys.py
+config.py
+
